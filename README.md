@@ -1,6 +1,3 @@
-# PCE-Time-Series-Forecasting
-Time series forecasting of US Personal Consumption Expenditure using ARIMA, Exponential Smoothing, and cross-validation techniques. Achieved 73% RMSE improvement over baseline models.
-
 # US Personal Consumption Expenditure (PCE) Forecasting
 
 Comprehensive time series analysis and forecasting of US Personal Consumption Expenditure using multiple statistical models including ARIMA, Exponential Smoothing, and Seasonal Naive methods.
